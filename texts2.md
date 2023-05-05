@@ -16,7 +16,7 @@ Bertanya
 Saat menyimak pelajaran dari guru, temukan pertanyaan yang bagus, yaitu hal-hal yang ingin Anda ketahui lebih dalam.
 
 Ilusi Kompetensi
-Uji diri sendiri, tuliskan hal yang Anda pelajari, ajarkan pada orang lain, dan ulangi hal tersebut saat Anda mempelajari hal baru. Hanya setelah Anda melakukannya, Anda dapat benar-benar yakin bahwa Anda telah memahami suatu hal.-->
+Uji diri sendiri, tuliskan hal yang Anda pelajari, ajarkan pada orang lain, dan ulangi hal tersebut saat Anda mempelajari hal baru. Hanya setelah Anda melakukannya, Anda dapat benar-benar yakin bahwa Anda telah memahami suatu hal.
 
 ----
 
@@ -48,7 +48,7 @@ Semangat dan inovasi Sal Khan mengubah pembelajaran bagi jutaan siswa di seluruh
 George Lucas
 Pembuat Film
 
-----
+--->
 
 Sumber daya yang berguna
 Material lebih lanjut tentang teknik pembelajaran dan tip.

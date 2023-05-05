@@ -131,18 +131,17 @@ note: section-title & section-subtitle ada diblock selanjutnya*/
 }
 
 .cards {
-  width: 920px;
   margin-left: auto;
   margin-right: auto;
+  width: 920px;
   display: flex;
   flex-wrap: wrap;
- 
+  gap: 100px;
 }
 
 .cards__item {
   margin-top: 60px;
-  width: 250px;
-  margin-right: 100px
+  width: 240px;
 }
 
 .cards__image {
@@ -165,6 +164,88 @@ note: section-title & section-subtitle ada diblock selanjutnya*/
   line-height: 23px;
   font-size: 18px;
   font-weight: normal;
+}
+
+/*4 block video .section-title
+                        - subtitle ada di block digits*/
+.video {
+  margin-top: 100px;
+}
+
+.video__iframes {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video__iframe {
+  margin-top: 50px;
+  width: 515px;
+  height: 316px;
+}
+
+/*5  block oakley blok two-columns, main-text, paragraf digunakan kembali di block description*/
+.oakley {
+  margin-top: 160px;
+}
+
+.two-columns__oakley {
+  width: 176px;
+  margin-left: 64px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: bold;
+  color:blue;
+}
+
+/*6 Block Feynman*/
+.feynman {
+  height: 790px;
+  position: relative;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.feynman__title {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+  width: 775px;
+  z-index: 2;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.feynman__subtitle {
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.feynman__link {
+  color: blue;
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.feynman__background-image {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  bottom: 0;
+  width: 867px;
+  height: 637px;
 }
 
 /*7 block digits*/
@@ -221,55 +302,48 @@ note: section-title & section-subtitle ada diblock selanjutnya*/
   font-weight: normal;
 }
 
-.feynman {
-  height: 790px;
-  position: relative;
-  margin-top: 100px;
+/*8 bloack Khan*/
+.khan {
+  margin-top: 105px;
+}
+
+.khan__container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.khan__author {
+
+}
+
+.khan__title {
+
+}
+
+.khan__quote {
+  margin-top: 50px;
+  margin-bottom: 36px;
+  width: 790px;
+}
+
+.khan__quote-author {
+  margin-bottom: 10px;
+}
+
+.khan__quote-author-subline {
+
+}
+
+.khan__book-container {
+  margin-top: 68px;
   display: flex;
-  flex-direction: column;
 }
 
-.feynman__title {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 70px;
-  width: 775px;
-  z-index: 2;
-  line-height: 1.15;
-  font-size: 120px;
-  font-weight: bold;
-  text-align: center;
+.khan__book-pic {
+  width: 620px;
+  height: 608px;
 }
-
-.feynman__subtitle {
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 2;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  text-align: center;
-}
-
-.feynman__link {
-  color: blue;
-  position: absolute;
-  right: 48px;
-  top: 50%;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-}
-
-.feynman__background-image {
-  position: absolute;
-  z-index: 1;
-  left: 0;
-  bottom: 0;
-  width: 867px;
-  height: 637px;
-}
-
 
 /*kaufman block*/
 

@@ -48,9 +48,36 @@ Semangat dan inovasi Sal Khan mengubah pembelajaran bagi jutaan siswa di seluruh
 George Lucas
 Pembuat Film
 
---->
+---
 
 Sumber daya yang berguna
 Material lebih lanjut tentang teknik pembelajaran dan tip.
 
-----
+
+
+#### KETERANGAN BLOCKS ####
+
+/*1 block header*/
+
+/*2 block description*/
+
+/*3 block techniques
+note: section-title & section-subtitle ada diblock selanjutnya*/
+
+/*4 block video .section-title
+                        - subtitle ada di block digits*/
+
+/*5  block oakley blok two-columns, main-text, paragraf digunakan kembali di block description*/
+
+/*6 Block Feynman*/
+
+/*7 block digits*/
+
+/*8 bloack Khan*/
+
+/*9 block kaufman*/
+
+/*10 block resources*/
+
+/* footer block */--->
+

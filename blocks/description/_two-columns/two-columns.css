@@ -1,0 +1,34 @@
+.two-columns{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .two-columns__brief {
+    width: 176px;
+    margin-left: 64px;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    color: blue;
+  }
+  
+  .two-columns__main-text {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  
+  .two-columns__paragraf {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  
+  .two-column__span-accent {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: bold;
+  }

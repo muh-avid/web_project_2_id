@@ -2,41 +2,4 @@
   position: relative;
   background-color: #1f1f1f;
   overflow: hidden;
-}
-
-  
-  
-  
-  
-  .table__cell_theme_dark {
-    width: 200px;
-    color: white;
-    margin-right: 0;
-    z-index: 1;
-    list-style: none;
-  }
-  
-  .table__heading_theme_dark {
-    margin-top: 0;
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bold;
-    
-  }
-  
-  .table__text_theme_dark{
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-  }
-  
-  .kaufman__triangle {
-    position: absolute;
-    bottom: 0;
-    right: -124px;
-    z-index: 0;
-    height: 660px;
-    width: 636px;
-  
-    animation: rotation 20s linear infinite; 
-  }
+} 

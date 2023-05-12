@@ -1,4 +1,5 @@
 @import url(../styles/normalize.css);
+@import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -77,8 +78,6 @@
 @import url(../blocks/cards/__description/cards__description.css);
 
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/rotation/__square/header__square.css);
-@import url(../blocks/rotation/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
